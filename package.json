@@ -1,10 +1,10 @@
 {
-  "name": "systemjs",
+  "name": "systemjs-fetch",
   "version": "0.20.8",
-  "description": "Dynamic ES module loader",
+  "description": "SystemJS patched with ability to overload the fetch function",
   "repository": {
     "type": "git",
-    "url": "git://github.com/systemjs/systemjs"
+    "url": "git://github.com/gkovacs/systemjs-fetch"
   },
   "author": "Guy Bedford",
   "license": "MIT",
