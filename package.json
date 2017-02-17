@@ -1,10 +1,10 @@
 {
-  "name": "systemjs-fetch",
+  "name": "systemjs",
   "version": "0.20.8",
-  "description": "SystemJS patched with ability to overload the fetch function",
+  "description": "SystemJS patched with ability to overload the fetch function by setting window.systemjs_fetch",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gkovacs/systemjs-fetch"
+    "url": "git://github.com/gkovacs/systemjs"
   },
   "author": "Guy Bedford",
   "license": "MIT",
